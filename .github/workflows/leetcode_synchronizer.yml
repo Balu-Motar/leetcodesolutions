@@ -17,7 +17,7 @@ jobs:
       - name: Configure Git Author
         run: |
           git config --global user.email "motarbalu@gmail.com"
-          git config --global user.name "fL8tAMUvDU"
+          git config --global user.name "Balu-Motar"
 
       # Step C: Run the sync action (it will now use the config above)
       - name: Sync LeetCode
